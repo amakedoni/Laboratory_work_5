@@ -23,7 +23,7 @@ lab5_buggy_library/
 │   ├── book.py          # Book, EBook, Audiobook (без ошибок)
 │   └── library.py       # Library (без ошибок)
 ├── скрины/              # скрины ошибок
-├── collections/
+├── custom_collections/
 │   ├── init.py
 │   ├── book_collection.py   # ← содержит баги №1 и №3
 │   └── index_dict.py        # ← содержит баг №2
