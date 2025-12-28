@@ -53,7 +53,7 @@ lab5_buggy_library/
 ```bash
 cd Laboratory_work_5
 python main_buggy.py
-# и по отдельности каждый из файлов
+# и по отдельности каждая из ошибок (1-3)
 python test_bug1.py
 python test_bug2.py
 python test_bug3.py
